@@ -1,0 +1,69 @@
+html{
+background-color:#00BFFF
+}
+.banner{ height: 120px;
+     width:100%;
+     background-color: #77CCFF
+;
+     font-size: 45px;
+font-family: Cursive;       
+}
+
+
+
+.banner{
+text-align:center;
+color: #0000FF;
+
+} 
+
+.navbar{
+text-align: center;
+width: 550px;
+height: 20px;
+margin: auto;
+padding: 29px;
+font-size: 34px;
+background-color: #77CCFF
+;
+margin-top: 15px;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding:0;
+}
+
+li{
+display: inline;
+padding: 5px;
+font-size: 34px;
+text-color: DodgerBlue;
+}
+
+li a {
+text-decoration: none;
+}
+
+.logo{
+ position: relative;
+ top:-184px;
+right:410px;
+}
+
+.foot01{
+border-style: solid;
+font-size: 26px;
+text-align: center;
+background-color: #77CCFF;
+}
+
+
+
+.pixels4{
+font-size: 29px;
+}
+
+
+

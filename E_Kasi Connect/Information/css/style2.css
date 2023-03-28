@@ -1,0 +1,123 @@
+html{
+background-color:#00BFFF
+}
+.banner{ height: 120px;
+     width:100%;
+     background-color: #77CCFF
+;
+     font-size: 45px;
+font-family: Cursive;       
+}
+
+
+
+.banner{
+text-align:center;
+color: #0000FF;
+
+} 
+
+.navbar{
+text-align: center;
+width: 550px;
+height: 20px;
+margin: auto;
+padding: 29px;
+font-size: 34px;
+background-color: #77CCFF;
+margin-top: 15px;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding:0;
+}
+
+li{
+display: inline;
+padding: 5px;
+font-size: 34px;
+text-color: DodgerBlue;
+}
+
+li a {
+text-decoration: none;
+}
+
+.logo{
+ position: relative;
+ top:-184px;
+right:410px;
+}
+
+.blank01{
+font-size: 32px;
+text-align: center;
+width:100%;
+text-decoration:underline;
+
+}
+
+.blank02{
+font-size: 32px;
+width:100%;
+}
+
+.table01{
+font-size:26px;
+position:relative;
+top:-24px;
+border-style:solid;
+height:34px;
+text-align:center;
+margin-left: 429px;
+background-color: #77CCFF;
+
+}
+
+.table02{
+font-size:28px;
+position:relative;
+top:-169px;
+border-style:solid;
+height:28px;
+width: 100%;
+text-align:center;
+background-color: #77CCFF;
+}
+
+.blank03{
+font-size: 50px;
+postion: relative;
+margin-top:-129px;
+}
+
+.blank04{
+font-size: 29px;
+top:45px;
+width: 32%;
+position: relative;
+right: -470px;
+top:-68px;
+border-style: solid;
+background-color: #77CCFF;
+}
+
+.foot01{
+border-style: solid;
+font-size: 26px;
+text-align: center;
+background-color: #77CCFF;
+position: relative;
+top: 100px;
+}
+
+.addition{
+text-size: 26px;
+border-style: solid;
+background-color: #77CCFF;
+position: relative;
+top: -10px;
+height: 275px;
+}
